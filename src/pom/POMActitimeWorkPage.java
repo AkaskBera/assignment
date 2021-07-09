@@ -37,6 +37,7 @@ public class POMActitimeWorkPage extends BasePage
 		Thread.sleep(10000);
 		settingsLink.click();
 		typesOfWorkLink.click();
+		Thread.sleep(6000);
 		createTypeOfWorkButton.click();
 		nameTextfield.sendKeys("planning");
 		selectbyvisibletext(statusDropDownList, "archived");

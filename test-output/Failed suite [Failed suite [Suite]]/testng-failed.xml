@@ -3,13 +3,13 @@
 <suite name="Failed suite [Failed suite [Failed suite [Suite]]]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)(failed)(failed)">
     <classes>
-      <class name="test.TESTCustomerPage">
+      <class name="test.TESTWorkPage">
         <methods>
           <include name="closeApp"/>
-          <include name="customer"/>
+          <include name="work"/>
           <include name="openApp"/>
         </methods>
-      </class> <!-- test.TESTCustomerPage -->
+      </class> <!-- test.TESTWorkPage -->
     </classes>
   </test> <!-- Test(failed)(failed)(failed) -->
 </suite> <!-- Failed suite [Failed suite [Failed suite [Suite]]] -->

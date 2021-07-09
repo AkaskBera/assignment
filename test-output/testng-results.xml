@@ -2,34 +2,34 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-07-08T20:44:04 IST" name="Suite" finished-at="2021-07-08T20:44:45 IST" duration-ms="40454">
+  <suite started-at="2021-07-09T19:00:54 IST" name="Suite" finished-at="2021-07-09T19:01:44 IST" duration-ms="49777">
     <groups>
     </groups>
-    <test started-at="2021-07-08T20:44:04 IST" name="Test" finished-at="2021-07-08T20:44:45 IST" duration-ms="40454">
+    <test started-at="2021-07-09T19:00:54 IST" name="Test" finished-at="2021-07-09T19:01:44 IST" duration-ms="49777">
       <class name="test.TESTWorkPage">
-        <test-method is-config="true" signature="openApp()[pri:0, instance:test.TESTWorkPage@3c73951]" started-at="2021-07-08T20:44:17 IST" name="openApp" finished-at="2021-07-08T20:44:26 IST" duration-ms="9904" status="PASS">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:test.TESTWorkPage@3c73951]" started-at="2021-07-09T19:01:08 IST" name="openApp" finished-at="2021-07-09T19:01:19 IST" duration-ms="11448" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openApp -->
-        <test-method signature="work()[pri:0, instance:test.TESTWorkPage@3c73951]" started-at="2021-07-08T20:44:26 IST" name="work" finished-at="2021-07-08T20:44:44 IST" duration-ms="17972" status="PASS">
+        <test-method signature="work()[pri:0, instance:test.TESTWorkPage@3c73951]" started-at="2021-07-09T19:01:19 IST" name="work" finished-at="2021-07-09T19:01:43 IST" duration-ms="24114" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- work -->
-        <test-method is-config="true" signature="closeApp()[pri:0, instance:test.TESTWorkPage@3c73951]" started-at="2021-07-08T20:44:44 IST" name="closeApp" finished-at="2021-07-08T20:44:45 IST" duration-ms="321" status="PASS">
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:test.TESTWorkPage@3c73951]" started-at="2021-07-09T19:01:43 IST" name="closeApp" finished-at="2021-07-09T19:01:44 IST" duration-ms="382" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeApp -->
       </class> <!-- test.TESTWorkPage -->
       <class name="test.TESTLoginActitime">
-        <test-method is-config="true" signature="openApp()[pri:0, instance:test.TESTLoginActitime@4944252c]" started-at="2021-07-08T20:44:04 IST" name="openApp" finished-at="2021-07-08T20:44:16 IST" duration-ms="11271" status="PASS">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:test.TESTLoginActitime@4944252c]" started-at="2021-07-09T19:00:54 IST" name="openApp" finished-at="2021-07-09T19:01:06 IST" duration-ms="12423" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openApp -->
-        <test-method signature="login()[pri:0, instance:test.TESTLoginActitime@4944252c]" started-at="2021-07-08T20:44:16 IST" name="login" finished-at="2021-07-08T20:44:16 IST" duration-ms="648" status="PASS">
+        <test-method signature="login()[pri:0, instance:test.TESTLoginActitime@4944252c]" started-at="2021-07-09T19:01:06 IST" name="login" finished-at="2021-07-09T19:01:07 IST" duration-ms="982" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method is-config="true" signature="closeApp()[pri:0, instance:test.TESTLoginActitime@4944252c]" started-at="2021-07-08T20:44:16 IST" name="closeApp" finished-at="2021-07-08T20:44:17 IST" duration-ms="276" status="PASS">
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:test.TESTLoginActitime@4944252c]" started-at="2021-07-09T19:01:07 IST" name="closeApp" finished-at="2021-07-09T19:01:08 IST" duration-ms="362" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeApp -->

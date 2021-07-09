@@ -10,6 +10,13 @@
           <include name="openApp"/>
         </methods>
       </class> <!-- test.TESTWorkPage -->
+      <class name="test.TESTLoginActitime">
+        <methods>
+          <include name="closeApp"/>
+          <include name="login"/>
+          <include name="openApp"/>
+        </methods>
+      </class> <!-- test.TESTLoginActitime -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
